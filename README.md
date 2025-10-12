@@ -46,18 +46,3 @@
 ## 🤝 مشارکت و باگ‌ها
 
 اگر با مشکلی مواجه شدید یا پیشنهادی برای بهبود دارید، لطفاً یک **Issue** در همین ریپازیتوری باز کنید یا ` Pull Request ` ارسال کنید.
-
-‌
-## 💰 حمایت‌ مالی از این پروژه 
-‌.
-
-‌
-#### حمایت ارزی ... | **`‌USDT` - `TRC20`**
-
-```
-TAcqHu8qXDGFuKit7LnFRRryQuTfHd89no
-```
-
-#### حمایت ریالی ...
-<a href="https://www.coffeebede.com/mohamadjavadkarimi"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-
