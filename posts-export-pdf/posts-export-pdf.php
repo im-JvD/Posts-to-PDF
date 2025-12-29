@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:        Export Post's to PDF
-Plugin URI:         https://mohamadjavadkarimi.ir/
+Plugin URI:         https://github.com/im-JvD/Posts-to-PDF
 Description:        افزونه اختصاصی برای خروجی PDF از لیست نوشته‌ها (نام، لینک، دسته‌بندی، تاریخ انتشار) + نصب خودکار TCPDF.
 Version:            1.0.0
 Author:             محمد جواد کریمی
